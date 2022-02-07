@@ -1,9 +1,9 @@
 # Ryan's Notes
 
 ## Summary
-This repository contains all of the notes taken by [Ryan](https://github.com/Rmaceac) for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ryan](https://github.com/Rmaceac) for the [Lighthouse Labs](www.lighthouselabs.ca) Web Development Bootcamp.
 
-### Important Links
-[Git Hub repo for this folder](https://github.com/Rmaceac/lighthouse-web-notes)
+## Table of Contents
+* [Week 1](/Week_1)
+    * [Day 1](/Week_1/Day_1/)
 
-[Lighthouse Labs](www.lighthouselabs.ca)
